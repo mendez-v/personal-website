@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 468 468"
+  viewBox="0 0 468 468">
+  <defs>
+    <circle cx="235" cy="234.047" r="234"></circle>
+  </defs>
+  <clipPath>
+    <use overflow="visible" xlink:href="#a"></use>
+  </clipPath>
+  <rect width="468" height="468" x="1.047" fill="#2b81b9" clip-path="url(#b)"></rect>
+  <rect width="468" height="57.298" x="1" y="289.921" fill="#006fa0" clip-path="url(#b)"></rect>
+  <rect width="468" height="55.672" x="1" y="234.249" fill="#0072b2" clip-path="url(#b)"></rect>
+  <rect width="468" height="60.244" x="1" y="347.219" fill="#00698e" clip-path="url(#b)"></rect>
+  <rect width="468" height="60.583" x="1" y="407.464" fill="#00627c" clip-path="url(#b)"></rect>
+  <rect width="470" height="7.864" y="230.183" fill="#afdff9" clip-path="url(#b)"></rect>
+  <g clip-path="url(#b)">
+    <polygon fill="#fff"
+      points="359.288 189.365 330.089 108.223 303.395 147.349 264.848 28.771 198.354 75.073 159.806 151.203 131.86 144.747 99.095 197.074 50 230.172 420 230.172">
+    </polygon>
+    <polygon fill="#f2f2f2"
+      points="131.86 189.429 131.86 144.747 99.095 197.074 50 230.172 162.591 230.172 162.591 198.029"></polygon>
+    <polygon fill="#f2f2f2"
+      points="359.288 189.365 330.089 108.223 303.395 147.349 264.848 28.771 223.744 111.077 264.848 122.352 217.914 169.285 258.964 199.06 258.964 230.172 420 230.172">
+    </polygon>
+  </g>
+  <g clip-path="url(#b)">
+    <polygon fill="#58acdb"
+      points="359.288 278.854 330.089 337.446 303.395 320.87 264.848 459.448 198.354 393.146 159.806 317.016 131.86 323.472 99.095 271.145 50 238.047 420 238.047">
+    </polygon>
+    <polygon fill="#3994bc"
+      points="131.86 278.79 131.86 323.472 99.095 271.145 50 238.047 162.591 238.047 162.591 270.19"></polygon>
+    <polygon fill="#3994bc"
+      points="359.288 278.854 330.089 337.446 303.395 320.87 264.848 459.448 223.744 357.142 264.848 345.867 217.914 298.934 258.964 269.159 258.964 238.047 420 238.047">
+    </polygon>
+  </g>
+  <circle cx="120.051" cy="88.42" r="30" fill="#83bcdb" clip-path="url(#b)"></circle>
+  <polygon fill="#fff"
+    points="193.1 38.015 198.271 40.844 193.1 43.672 190.271 48.844 187.443 43.672 182.271 40.844 187.443 38.015 190.271 32.844"
+    clip-path="url(#b)"></polygon>
+  <polygon fill="#fff"
+    points="332.417 62.884 338.881 66.42 332.417 69.955 328.881 76.42 325.346 69.955 318.881 66.42 325.346 62.884 328.881 56.42"
+    clip-path="url(#b)"></polygon>
+  <polygon fill="#fff"
+    points="401.71 153.591 406.881 156.42 401.71 159.248 398.881 164.42 396.053 159.248 390.881 156.42 396.053 153.591 398.881 148.42"
+    clip-path="url(#b)"></polygon>
+  <polygon fill="#fff"
+    points="72.417 152.884 78.881 156.42 72.417 159.955 68.881 166.42 65.346 159.955 58.881 156.42 65.346 152.884 68.881 146.42"
+    clip-path="url(#b)"></polygon>
+</svg>
